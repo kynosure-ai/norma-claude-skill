@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "norma",
+  "description": "NORMA by Kynosure — EU compliance distribution",
+  "owner": {
+    "name": "Kynosure",
+    "email": "dev@kynosure.ai"
+  },
+  "plugins": [
+    {
+      "name": "norma-claude-skill",
+      "source": "./",
+      "description": "EU compliance methodology + 32 strategic-subset templates for AI Act, ISO 42001, NIS2, DORA, ISO 27001, ISO 22301, ISO 27701, CRA",
+      "version": "1.0.0",
+      "category": "compliance",
+      "tags": ["eu-compliance", "ai-act", "iso-42001", "iso-27001", "iso-22301", "iso-27701", "nis2", "dora", "cra", "gdpr"]
+    }
+  ]
+}
