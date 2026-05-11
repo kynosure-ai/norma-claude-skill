@@ -80,7 +80,7 @@ Yes. Code-level artifacts (SKILL.md, manifest files, scripts) are MIT licensed �
 
 **How do I get the full corpus?**
 
-The full 208-template corpus (104 IT + 104 EN) is Kynosure-private. The 32-template subset bundled here is the public release. To consult against the full corpus programmatically, see the upcoming **NORMA MCP Server** (Phase 41 — open code, private data pattern: server is open-source, corpus stays in a Kynosure-managed Cloud Storage bucket).
+The full 208-template corpus (104 IT + 104 EN) is Kynosure-private. The 32-template subset bundled here is the public release. To consult against the full corpus programmatically, see the upcoming **NORMA MCP Server** — open code, private data pattern: server is open-source, corpus stays in a Kynosure-managed Cloud Storage bucket.
 
 **Why Italian-first content?**
 
@@ -98,6 +98,12 @@ Open an issue at https://github.com/kynosure-ai/norma-claude-skill/issues. Parti
 - [kynosure.ai/en/norma/claude-skill?utm_source=norma-claude-skill-readme&utm_medium=github&utm_campaign=norma-launch](https://kynosure.ai/en/norma/claude-skill?utm_source=norma-claude-skill-readme&utm_medium=github&utm_campaign=norma-launch) (English)
 
 The Kynosure NORMA catalog page lists this Claude Skill alongside the upcoming **NORMA MCP Server** (programmatic access for any MCP-compatible AI assistant) and the **NORMA Custom GPT** (ChatGPT Custom GPT with embedded subset).
+
+## About Kynosure
+
+This Claude Skill is built and maintained by [Kynosure](https://kynosure.ai), a European compliance platform that produces one assessment covering NIS2, DORA, ISO 27001, ISO 22301, ISO 42001, ISO 27701, CRA, and the EU AI Act. The Skill packages a curated subset of the Kynosure compliance corpus (32 templates across 7 framework families plus 8 framework reference files) so you can route compliance questions through Claude with sector-aware context.
+
+For the full multi-framework assessment, sector-profiled scoring, and methodology-backed PDF reports, see [kynosure.ai](https://kynosure.ai/?utm_source=norma-claude-skill-readme&utm_medium=github&utm_campaign=about-kynosure).
 
 ## License + provenance
 
